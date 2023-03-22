@@ -11,6 +11,8 @@ public class App
         System.out.println( "Hello World!" );
 
            String s=  "divaji is a billoner";
+        
+         String s=  "divaji is a billoner";
 
          int i=10;
 
