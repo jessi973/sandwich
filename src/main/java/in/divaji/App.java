@@ -12,7 +12,7 @@ public class App
 
            String s=  "divaji is a billoner";
         
-         String s=  "divaji is a billoner";
+         String s1=  "divaji is a billoner";
 
          int i=10;
 
